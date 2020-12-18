@@ -1,0 +1,348 @@
+.logo{
+    margin-left: 1cm;
+    position: absolute;
+}
+
+img{
+    width: 150px;
+    height: 60px;
+    float: left;
+}
+
+table{
+    border: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: lemonchiffon;
+    border-collapse: collapse;
+    margin-left: 1cm;
+}
+
+td{
+    border: 1px solid black;
+    padding: 6px;
+}
+
+p{
+    padding-top: 0.2%;
+    margin-left: 1cm;
+
+}
+
+#twitter{
+    width: 30px;
+    height: 20px;
+    float: left;
+    padding-left: 4px;
+}
+
+#insta{
+    width: 30px;
+    height: 23px;
+    float: left;
+    padding-left: 5px;
+
+}
+
+#menu{
+    font-size: 20px;
+    border: 3.7px solid rgb(11, 12, 11);
+    background: rgb(255, 255, 255);
+    width: 50%;
+    margin-left: 1cm;
+    margin-top:2cm;
+
+    display: inline-block;
+    text-align: center;
+}
+
+a{
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: lightgreen;
+}
+
+h1{
+    font-size: 20px;
+    margin-left: 1cm;
+
+}
+
+
+h2{
+    font-size: 15px;
+    text-decoration: underline;
+    margin-left: 1cm;
+    margin-top: 1cm;
+}
+
+footer{
+    margin-top: 0.5cm;
+    background-color: rgb(191, 184, 184);
+    width: 100%;
+    float: left;
+    border-top: 2px solid #333333;
+ 
+}
+
+#by{
+    font-size: 12px;;
+}
+
+#importante{
+    color: red;
+}
+
+nav ul li{
+    display: inline;
+    border: 3.7px solid rgb(11, 12, 11);
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+}
+
+a{
+    margin-top: 5px;
+    padding-right: 6%;
+    padding-left: 6%;
+    text-align: center;
+}
+
+#Medicina{
+    border: 3.7px solid rgb(11, 12, 11);
+    width: 11cm;
+    background-color: rgb(220, 211, 211);
+    padding-left: 1cm;
+}
+
+#Economia{
+    border: 3.7px solid rgb(11, 12, 11);
+    margin-left: 12.5cm;
+    background-color: rgb(220, 211, 211);
+    width: 11cm;
+    padding-left: 1cm;
+}
+
+#Historia{
+    border: 3.7px solid rgb(11, 12, 11);
+    margin-left: 25cm;
+    background-color: rgb(220, 211, 211);
+    width: 11cm;
+    padding-left: 1cm;
+
+}
+
+#Política{
+    border: 3.7px solid rgb(11, 12, 11);
+    margin-left: 37.5cm;
+    background-color: rgb(220, 211, 211);
+    width: 4.5cm;
+    padding-left: 1cm;
+}
+
+li a:hover{
+    background-color: lightgreen;
+}
+
+.economía img{
+    width: 140px;
+    height: 200px;
+    margin-left: 1cm;
+}
+
+.economía p{
+    margin-left: 5cm;
+
+}
+
+.historia img{
+    width: 140px;
+    height: 180px;
+    margin-left: 1cm;
+}
+
+.historia p{
+
+    margin-left: 5cm;
+}
+
+.politica img{
+    width: 140px;
+    height: 200px;
+    margin-left: 1cm;
+}
+
+.politica p{
+    margin-left: 5cm;
+}
+
+.evangelio{
+    font-weight: bold;
+}
+
+.atlas{
+    font-weight: bold;
+}
+
+.medicina p{
+    margin-left: 1cm;
+}
+
+.urgencias{
+    font-weight: bold;
+}
+
+.economia1{
+    font-weight: bold;
+}
+
+.inversor{
+    font-weight: bold;
+}
+
+.historia1{
+    font-weight: bold;
+}
+
+.historia2{
+    font-weight: bold;
+}
+
+.constituyente{
+    font-weight: bold;
+}
+
+.Reservar{
+    background-color: lightblue;
+    font-weight: bold;
+    border-radius: 1em;
+    font-size: 1em;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    margin-left: 1cm;
+}
+
+.biblioteca{
+    margin-bottom: 1cm;
+
+}
+
+.biblioteca img{
+    padding-left: 1cm;
+  
+    margin-top: 0.5cm;
+    width: 435px;
+    height: 280px;
+    float: left;
+
+}
+
+.deporte img{
+    padding-left: 1cm;
+    margin-top: 0.5cm;
+    width: 435px;
+    height: 280px;
+    float: left;
+}
+
+.imagenes{
+    margin-left: 1cm;
+}
+
+input{
+    margin-left: 0.5cm;
+}
+
+label{
+    margin-left: 1cm;
+}
+
+.noticia{
+    border: 1px solid;
+    width: 40%;
+    padding-right: 1cm;
+    float: left;
+    margin-right: 1cm;
+    margin-left: 1cm;
+
+}
+
+.noticia h2{
+    text-decoration: none;
+    color: rgb(56, 56, 113);
+}
+
+.noticia2{
+    border: 1px solid;
+    width: 40%;
+    padding-right: 20px;
+    float: left;
+
+}
+
+.noticia2 h2{
+    text-decoration: none;
+    color: rgb(56, 56, 113);
+}
+
+.noticia3{
+    border: 1px solid;
+    width: 40%;
+    padding-right: 1cm;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+    margin-left: 1cm;
+}
+
+.noticia3 h2{
+    text-decoration: none;
+    color: rgb(56, 56, 113);
+}
+
+.noticia4{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    border: 1px solid;
+    width: 40%;
+    padding-right: 20px;
+    float: left;
+
+}
+
+.noticia4 h2{
+    text-decoration: none;
+    color: rgb(56, 56, 113);
+}
+
+.rey{
+    padding-left: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    width: 110px;
+    height: 110px;
+}
+
+.unionistas{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    width: 50px;
+    height: 50px;
+    margin-left: 1cm;
+}
+
+.uds{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 8px;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
